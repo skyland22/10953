@@ -1,0 +1,1 @@
+rt_thread_nano_g070\startup_stm32g070xx.o: startup_stm32g070xx.s
